@@ -1,0 +1,39 @@
+
+15:22:42,826 [INFO] GreetingModel.getGreetingMessage:34 - log test:greeting message
+15:37:04,014 [INFO] GreetingModel.loggin:23 - new log test: succ
+15:48:31,406 [INFO] GreetingModel.loggin:24 - Process finished successfully
+16:02:23,717 [INFO] GreetingModel.loggin:24 - Process finished successfully, output message: 
+16:03:08,728 [INFO] GreetingModel.loggin:24 - Process finished successfully!
+16:04:10,824 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+17:58:13,113 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+18:52:00,904 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+18:53:21,610 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+19:05:09,548 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+21:11:42,024 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+21:18:41,165 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+21:18:51,658 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+21:20:05,399 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+21:20:27,668 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+21:20:37,550 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+21:23:51,549 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+21:25:46,818 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+21:26:48,455 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+21:27:03,532 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+21:28:01,076 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+21:31:43,612 GreetingModel.loggin:24 - BUILD SUCCESS!
+21:33:03,685 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+21:33:23,209 [%P] GreetingModel.loggin:24 - BUILD SUCCESS!
+21:33:54,853 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+21:34:35,618 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+21:35:14,687 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+21:36:02,922 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+21:36:20,878 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+21:36:30,989 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+21:41:15,482 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+21:44:16,641 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+22:05:17,376 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+22:05:32,456 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+22:07:36,982 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+23:50:41,445 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+01:02:21,799 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
+01:13:57,484 [INFO] GreetingModel.loggin:24 - BUILD SUCCESS!
